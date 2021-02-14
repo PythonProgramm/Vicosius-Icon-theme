@@ -1,8 +1,8 @@
 # Vicosius-Icon-theme
 
-#Installation
+Installation
 
-exec the following commands to install Vicosius-icon-theme
+exec the following command to install Vicosius-icon-theme
 
-git clone https://github.com/PythonProgramm/Vicosius-Icon-theme.git
+git clone https://github.com/PythonProgramm/Vicosius-Icon-theme.git &&
 sudo cp -r Vicosius-Icon-theme /usr/share/icons/
