@@ -1,6 +1,6 @@
 # Vicosius-Icon-theme
 
-#Installation:
+#Installation
 
 exec the following commands to install Vicosius-icon-theme
 
